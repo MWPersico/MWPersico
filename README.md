@@ -2,8 +2,8 @@
 <h3 align="left">Sou um estudante e entusiasta do desenvolvimento de software, aficionado pelas tecnologias e pelas maravilhas que podemos fazer por nós com o auxilio delas.</h3><br>
 
 <div>
-  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=MWPersico&show_icons=true&theme=radical" />
-  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWPersico&theme=radical" />
+  <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api?username=MWPersico&show_icons=true&theme=radical" />
+  <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWPersico&theme=radical" />
 </div>
 
 - 🌐 Atualmente desenvolvedor web - Freelancer
