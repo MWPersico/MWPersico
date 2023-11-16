@@ -8,7 +8,7 @@
 
 - 🌐 Atualmente desenvolvedor web - Freelancer
 
-- 🌱 Atualmente estou estudando: **React.js, Node.js, React Native e outros...**
+- 🌱 Atualmente estou estudando: **Java Spring, React Native e outros...**
 
 - 👨‍💻 Pode encontrar meu projetos em: [https://marcprojects.com](https://marcprojects.com)
 
