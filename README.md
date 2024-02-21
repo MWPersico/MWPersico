@@ -6,7 +6,7 @@
   <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWPersico&theme=radical" />
 </div>
 
-- 🌐 Atualmente desenvolvedor web - Freelancer
+  - 🌐 Atualmente estagiando no Banco Bradesco
 
 - 🌱 Atualmente estou estudando: **Java Spring, React Native e outros...**
 
